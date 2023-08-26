@@ -1,5 +1,5 @@
-from src.api.users import router as users_router
+from api.accounts import router as accounts_router
 
 all_routers = [
-    users_router
+    accounts_router
 ]
