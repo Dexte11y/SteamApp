@@ -20,7 +20,7 @@ async def add_account(new_account: AccountsSchemasBase, session: AsyncSession = 
     account_dict = new_account.model_dump()
     stmt = insert(Accounts).values(**account_dict)
     # stmt = models.accounts.Accounts(**account_dict)
-    session.add(stmt)
+    await session.add(stmt)
     await session.commit()
     return {"status": "success"}
 
