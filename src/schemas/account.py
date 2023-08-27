@@ -23,4 +23,4 @@ class AccountsSchemaAdd(AccountsSchemaBase):
 
 
 class AccountsSchemaInDb(AccountsSchemaBase):
-    pass
+    id: int
