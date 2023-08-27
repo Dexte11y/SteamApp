@@ -10,7 +10,7 @@ from db.db import Base
 from models.accounts import Accounts
 
 config = context.config
-config.set_main_option("sqlalchemy.url", "sqlite+aiosqlite:///sqlite.db")
+config.set_main_option("sqlalchemy.url", "sqlite+aiosqlite:///C:/PyCharmProjects/SteamPower_BoostHub/src/spb.db")
 
 if config.config_file_name is not None:
     fileConfig(config.config_file_name)

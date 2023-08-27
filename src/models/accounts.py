@@ -10,22 +10,22 @@ class Accounts(Base):
     __tablename__ = "accounts"
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    id_inventory: Mapped[int]
+    idInventory: Mapped[int]
     name: Mapped[str]
-    last_activity: Mapped[date]
-    registration_date: Mapped[date]
+    lastActivity: Mapped[date]
+    registrationDate: Mapped[date]
     email: Mapped[str]
     phone: Mapped[str]
-    steam_id: Mapped[str]
+    idSteam: Mapped[str]
 
     def to_read_model(self) -> AccountsSchemaBase:
         return AccountsSchemaBase(
             id=self.id,
-            id_inventory=self.id_inventory,
+            idInventory=self.idInventory,
             name=self.name,
-            last_activity=self.last_activity,
-            registration_date=self.registration_date,
+            lastActivity=self.lastActivity,
+            registrationDate=self.registrationDate,
             email=self.email,
             phone=self.phone,
-            steam_id=self.steam_id,
+            idSteam=self.idSteam
         )
