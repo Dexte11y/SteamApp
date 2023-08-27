@@ -3,7 +3,7 @@ from datetime import date
 from pydantic import BaseModel, ConfigDict
 
 
-class AccountsSchemasBase(BaseModel):
+class AccountsSchemaBase(BaseModel):
     model_config = ConfigDict(
         from_attributes=True
     )
@@ -18,9 +18,9 @@ class AccountsSchemasBase(BaseModel):
     steam_id: str
 
 
-class AccountsSchemasAdd(AccountsSchemasBase):
+class AccountsSchemaAdd(AccountsSchemaBase):
     pass
 
 
-class AccountsSchemasInDb(AccountsSchemasBase):
+class AccountsSchemaInDb(AccountsSchemaBase):
     pass

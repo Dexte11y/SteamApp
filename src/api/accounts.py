@@ -1,11 +1,9 @@
 from fastapi import APIRouter, Depends
-from sqlalchemy import insert
-from sqlalchemy.ext.asyncio import AsyncSession
+from typing_extensions import Annotated
+from dependencies import accounts_service
 
-import models.accounts
-from db.db import get_async_session
-from models.accounts import Accounts
-from schemas.account import AccountsSchemasBase
+from schemas.account import AccountsSchemaAdd
+from services.accounts import AccountsService
 
 router = APIRouter(
     prefix="/accounts",
@@ -16,17 +14,19 @@ router = APIRouter(
 @router.post(
     ""
 )
-async def add_account(new_account: AccountsSchemasBase, session: AsyncSession = Depends(get_async_session)):
-    account_dict = new_account.model_dump()
-    stmt = insert(Accounts).values(**account_dict)
-    # stmt = models.accounts.Accounts(**account_dict)
-    await session.add(stmt)
-    await session.commit()
-    return {"status": "success"}
+async def add_account(
+        account: AccountsSchemaAdd,
+        accounts_service: Annotated[AccountsService, Depends(accounts_service)]
+):
+    account_id = await accounts_service.add_account(account)
+    return {"task_id": account_id}
 
 
 @router.get(
     ""
 )
-async def get_user():
-    pass
+async def get_accounts(
+        accounts_service: Annotated[AccountsService, Depends(accounts_service)]
+):
+    accounts = await accounts_service.get_accounts()
+    return accounts
