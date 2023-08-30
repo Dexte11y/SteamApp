@@ -11,6 +11,10 @@ class AccountsService:
         account_id = await self.accounts_repo.add_one(accounts_dict)
         return account_id
 
-    async def get_accounts(self):
+    async def get_all_accounts(self):
         accounts = await self.accounts_repo.find_all()
         return accounts
+
+    async def get_accounts_by_id(self, account_id: int):
+        accounts_by_id = await self.accounts_repo.find_one(id=account_id)
+        return accounts_by_id
