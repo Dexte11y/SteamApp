@@ -1,14 +1,18 @@
-from sqlalchemy.ext.asyncio import async_sessionmaker, create_async_engine
-from sqlalchemy.orm import DeclarativeBase
+from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession
+from sqlalchemy.orm import sessionmaker, DeclarativeBase
 
-engine = create_async_engine("sqlite+aiosqlite:///C:/PyCharmProjects/SteamPower_BoostHub/src/spb.db")
-async_session_maker = async_sessionmaker(engine, expire_on_commit=False)
+DB_HOST = "localhost"
+DB_PORT = 5432
+DB_USER = "postgres"
+DB_PASS = "postgres"
+DB_NAME = "postgres"
+
+DATABASE_URL = f"postgresql+asyncpg://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+
+engine = create_async_engine(DATABASE_URL)
+
+async_session_maker = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)
 
 
 class Base(DeclarativeBase):
     pass
-
-
-async def get_async_session():
-    async with async_session_maker() as session:
-        yield session
