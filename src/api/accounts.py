@@ -1,11 +1,12 @@
 from fastapi import APIRouter, Depends
+from starlette.responses import JSONResponse
 from typing_extensions import Annotated
 from api.dependencies import accounts_service
 from schemas.account import AccountsSchemaAdd
 from services.accounts import AccountsService
 
 router = APIRouter(
-    prefix="/accounts",
+    prefix="/v1/accounts",
     tags=["Accounts"]
 )
 
@@ -24,8 +25,30 @@ async def add_account(
 @router.get(
     ""
 )
-async def get_accounts(
+async def get_all_accounts(
         account_service: Annotated[AccountsService, Depends(accounts_service)]
 ):
-    accounts = await account_service.get_accounts()
+    accounts = await account_service.get_all_accounts()
     return accounts
+
+
+@router.get(
+    "/{id}"
+)
+async def get_accounts_by_id(
+        account_id: int,
+        account_service: Annotated[AccountsService, Depends(accounts_service)]
+):
+    account_by_id = await account_service.get_accounts_by_id(account_id)
+    if account_by_id is None:
+        raise {"error": "404"}
+    return account_by_id
+
+
+@router.get(
+    "/inventories"
+)
+async def get_inventories(
+        account_service: Annotated[AccountsService, Depends(accounts_service)]
+):
+    pass

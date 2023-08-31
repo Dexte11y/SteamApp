@@ -3,7 +3,7 @@ from datetime import date
 from sqlalchemy.orm import Mapped, mapped_column
 
 from db.db import Base
-from schemas.account import AccountsSchemaBase
+from schemas.account import AccountsSchemaInDb
 
 
 class Accounts(Base):
@@ -18,8 +18,8 @@ class Accounts(Base):
     phone: Mapped[str]
     idSteam: Mapped[str]
 
-    def to_read_model(self) -> AccountsSchemaBase:
-        return AccountsSchemaBase(
+    def to_read_model(self) -> AccountsSchemaInDb:
+        return AccountsSchemaInDb(
             id=self.id,
             idInventory=self.idInventory,
             name=self.name,

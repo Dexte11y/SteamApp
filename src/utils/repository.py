@@ -11,6 +11,10 @@ class AbstractRepository(ABC):
         raise NotImplementedError
 
     @abstractmethod
+    async def find_one():
+        raise NotImplementedError
+
+    @abstractmethod
     async def find_all():
         raise NotImplementedError
 
@@ -25,9 +29,14 @@ class SQLAlchemyRepository(AbstractRepository):
             await session.commit()
             return res.scalar_one()
 
+    async def find_one(self, **kwargs):
+        async with async_session_maker() as session:
+            stmt = select(self.model).filter_by(**kwargs)
+            res = await session.execute(stmt)
+            return res.scalar_one().to_read_model()
     async def find_all(self):
         async with async_session_maker() as session:
             stmt = select(self.model)
             res = await session.execute(stmt)
             res = [row[0].to_read_model() for row in res.all()]
-            return res
+            return res()
