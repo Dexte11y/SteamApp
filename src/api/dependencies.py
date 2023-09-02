@@ -1,6 +1,7 @@
-from repositories.accounts import AccountsRepository
-from services.accounts import AccountsService
+from typing import Annotated
 
+from fastapi import Depends
 
-def accounts_service():
-    return AccountsService(AccountsRepository)
+from utils.unit_of_work import IUnitOfWork, UnitOfWork
+
+UOWDep = Annotated[IUnitOfWork, Depends(UnitOfWork)]

@@ -1,42 +1,44 @@
 from abc import ABC, abstractmethod
 
 from sqlalchemy import insert, select
+from sqlalchemy.ext.asyncio import AsyncSession
 
-from db.db import async_session_maker
 
-
-class AbstractRepository(ABC):
+class IRepository(ABC):
     @abstractmethod
-    async def add_one():
+    async def add_one(self, data: dict):
         raise NotImplementedError
 
     @abstractmethod
-    async def find_one():
+    async def find_one(self, **kwargs):
         raise NotImplementedError
 
     @abstractmethod
-    async def find_all():
+    async def find_all(self):
         raise NotImplementedError
 
 
-class SQLAlchemyRepository(AbstractRepository):
+class SQLAlchemyRepositoryImplementation(IRepository):
     model = None
 
+    def __init__(self, session: AsyncSession):
+        self.session = session
+
     async def add_one(self, data: dict) -> int:
-        async with async_session_maker() as session:
-            stmt = insert(self.model).values(**data).returning(self.model.id)
-            res = await session.execute(stmt)
-            await session.commit()
-            return res.scalar_one()
+        stmt = (
+            insert(self.model).
+            values(**data).
+            returning(self.model.id))
+        res = await self.session.execute(stmt)
+        return res.scalar_one()
 
     async def find_one(self, **kwargs):
-        async with async_session_maker() as session:
-            stmt = select(self.model).filter_by(**kwargs)
-            res = await session.execute(stmt)
-            return res.scalar_one().to_read_model()
+        stmt = select(self.model).filter_by(**kwargs)
+        res = await self.session.execute(stmt)
+        return res.scalar_one().to_read_model()
+
     async def find_all(self):
-        async with async_session_maker() as session:
-            stmt = select(self.model)
-            res = await session.execute(stmt)
-            res = [row[0].to_read_model() for row in res.all()]
-            return res()
+        stmt = select(self.model)
+        result = await self.session.execute(stmt)
+        return [res[0].to_read_model() for res in result.all()]
+

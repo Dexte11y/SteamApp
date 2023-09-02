@@ -10,7 +10,7 @@ from db.db import Base, DATABASE_URL
 from models.accounts import Accounts
 
 config = context.config
-config.set_main_option("sqlalchemy.url", f"{DATABASE_URL}")
+config.set_main_option("sqlalchemy.url", f"{DATABASE_URL}?async_fallback=True")
 
 if config.config_file_name is not None:
     fileConfig(config.config_file_name)

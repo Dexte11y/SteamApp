@@ -1,7 +1,5 @@
-from fastapi import APIRouter, Depends
-from starlette.responses import JSONResponse
-from typing_extensions import Annotated
-from api.dependencies import accounts_service
+from fastapi import APIRouter
+from api.dependencies import UOWDep
 from schemas.account import AccountsSchemaAdd
 from services.accounts import AccountsService
 
@@ -16,9 +14,9 @@ router = APIRouter(
 )
 async def add_account(
         account: AccountsSchemaAdd,
-        account_service: Annotated[AccountsService, Depends(accounts_service)]
+        uow: UOWDep
 ):
-    account_id = await account_service.add_account(account)
+    account_id = await AccountsService.add_account(uow, account)
     return {"account_id": account_id}
 
 
@@ -26,9 +24,9 @@ async def add_account(
     ""
 )
 async def get_all_accounts(
-        account_service: Annotated[AccountsService, Depends(accounts_service)]
+        uow: UOWDep
 ):
-    accounts = await account_service.get_all_accounts()
+    accounts = await AccountsService.get_all_accounts(uow)
     return accounts
 
 
@@ -37,11 +35,9 @@ async def get_all_accounts(
 )
 async def get_accounts_by_id(
         account_id: int,
-        account_service: Annotated[AccountsService, Depends(accounts_service)]
+        uow: UOWDep
 ):
-    account_by_id = await account_service.get_accounts_by_id(account_id)
-    if account_by_id is None:
-        raise {"error": "404"}
+    account_by_id = await AccountsService.get_accounts_by_id(uow, account_id)
     return account_by_id
 
 
@@ -49,6 +45,6 @@ async def get_accounts_by_id(
     "/inventories"
 )
 async def get_inventories(
-        account_service: Annotated[AccountsService, Depends(accounts_service)]
+        uow: UOWDep
 ):
     pass

@@ -1,6 +1,6 @@
 from models.accounts import Accounts
-from utils.repository import SQLAlchemyRepository
+from utils.repository import SQLAlchemyRepositoryImplementation
 
 
-class AccountsRepository(SQLAlchemyRepository):
+class AccountsRepository(SQLAlchemyRepositoryImplementation):
     model = Accounts
