@@ -48,3 +48,14 @@ async def get_inventories(
         uow: UOWDep
 ):
     pass
+
+
+@router.delete(
+    "/delete"
+)
+async def delete_accounts_by_id(
+        accounts_id: int,
+        uow: UOWDep
+):
+    await AccountsService.delete_accounts_by_id(accounts_id, uow)
+    return {"status": "succsessful"}

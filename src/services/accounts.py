@@ -19,3 +19,8 @@ class AccountsService:
         async with uow:
             accounts_by_id = await uow.account.find_one(id=account_id)
             return accounts_by_id
+
+    async def delete_accounts_by_id(uow: IUnitOfWork, accounts_id: int):
+        async with uow:
+            await uow.account.delete_one(id=accounts_id)
+            await uow.commit()
