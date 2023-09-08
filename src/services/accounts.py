@@ -1,4 +1,4 @@
-from schemas.account import AccountsSchemaAdd
+from schemas.accounts import AccountsSchemaAdd
 from utils.unit_of_work import IUnitOfWork
 
 

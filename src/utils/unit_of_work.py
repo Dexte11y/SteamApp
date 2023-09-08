@@ -3,10 +3,12 @@ from typing import Type
 
 from db.db import async_session_maker
 from repositories.accounts import AccountsRepository
+from repositories.inventories import InventoriesRepository
 
 
 class IUnitOfWork(ABC):
     account: Type[AccountsRepository]
+    inventory: Type[InventoriesRepository]
 
     @abstractmethod
     def __init__(self):

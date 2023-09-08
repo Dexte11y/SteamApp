@@ -9,13 +9,14 @@ class AccountsSchemaBase(BaseModel):
     )
 
     id: int
-    idInventory: int
+    addressInventory: int
     name: str
     lastActivity: date
     registrationDate: date
     email: str
     phone: str
     idSteam: str
+    idInventory: int
 
 
 class AccountsSchemaAdd(AccountsSchemaBase):

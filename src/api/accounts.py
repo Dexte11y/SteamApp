@@ -1,7 +1,8 @@
 from fastapi import APIRouter
 from api.dependencies import UOWDep
-from schemas.account import AccountsSchemaAdd
+from schemas.accounts import AccountsSchemaAdd
 from services.accounts import AccountsService
+from services.inventories import InventoriesServece
 
 router = APIRouter(
     prefix="/v1/accounts",
@@ -42,9 +43,11 @@ async def get_accounts_by_id(
 
 
 @router.get(
-    "/inventories"
+    "/{id}/inventory"
 )
 async def get_inventories(
+        inventory_id: int,
         uow: UOWDep
 ):
-    pass
+    inventory_by_id = await InventoriesServece.get_inventories_by_id(inventory_id, uow)
+    return inventory_by_id
