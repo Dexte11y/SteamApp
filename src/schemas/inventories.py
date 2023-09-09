@@ -6,9 +6,13 @@ class InventoriesSchemaBase(BaseModel):
         from_attributes=True
     )
     id: int
-    inventory: str
+    inventoryItem: str
 
 
 class InventoriesSchemaAdd(InventoriesSchemaBase):
     pass
 
+
+class InventoriesSchemaInDb(InventoriesSchemaBase):
+    id: int
+    inventoryItem: str

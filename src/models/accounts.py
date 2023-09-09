@@ -20,8 +20,8 @@ class Accounts(Base):
     phone: Mapped[str]
     idSteam: Mapped[str]
 
-    idInventory: Mapped[int] = mapped_column(ForeignKey("inventories.id"))
-    inventoryItem: Mapped['Inventories'] = relationship(backref="account", uselist=False, lazy="joined")
+    # idInventory: Mapped[int] = mapped_column(ForeignKey("inventories.id"))
+    # inventoryItem: Mapped['Inventories'] = relationship(backref="accounts", uselist=False, lazy="joined")
 
     def to_read_model(self) -> AccountsSchemaInDb:
         return AccountsSchemaInDb(
@@ -33,6 +33,6 @@ class Accounts(Base):
             email=self.email,
             phone=self.phone,
             idSteam=self.idSteam,
-            idInventory=self.idInventory,
-            inventoryItem=self.inventoryItem,
+            # idInventory=self.idInventory,
+            # inventoryItem=self.inventoryItem.to_read_model(),
         )

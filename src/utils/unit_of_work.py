@@ -39,6 +39,7 @@ class UnitOfWork(IUnitOfWork):
         self.session = self.session_factory()
 
         self.account = AccountsRepository(self.session)
+        self.inventory = InventoriesRepository(self.session)
 
     async def __aexit__(self, *args):
         await self.rollback()

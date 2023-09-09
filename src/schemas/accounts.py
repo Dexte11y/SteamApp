@@ -16,7 +16,7 @@ class AccountsSchemaBase(BaseModel):
     email: str
     phone: str
     idSteam: str
-    idInventory: int
+    # idInventory: int
 
 
 class AccountsSchemaAdd(AccountsSchemaBase):
