@@ -1,0 +1,2658 @@
+{
+  "assets": [
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "31405362778",
+      "classid": "3946324730",
+      "instanceid": "0",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "31405362777",
+      "classid": "3035568810",
+      "instanceid": "302028390",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "31097545862",
+      "classid": "2076470635",
+      "instanceid": "188530448",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "30904377205",
+      "classid": "1989273209",
+      "instanceid": "302028390",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "28654195421",
+      "classid": "1989282886",
+      "instanceid": "302028390",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "28212028540",
+      "classid": "5136977003",
+      "instanceid": "5145226093",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "27640803486",
+      "classid": "1989286467",
+      "instanceid": "302028390",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "27342813432",
+      "classid": "1989287235",
+      "instanceid": "302028390",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "27166235176",
+      "classid": "3472118194",
+      "instanceid": "301750157",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "27149179464",
+      "classid": "1989329394",
+      "instanceid": "302028390",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "27149179441",
+      "classid": "1989287051",
+      "instanceid": "302028390",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "27002539322",
+      "classid": "1989279170",
+      "instanceid": "302028390",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "26899690168",
+      "classid": "4956553487",
+      "instanceid": "565664004",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "26721463589",
+      "classid": "1989285742",
+      "instanceid": "302028390",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "26572060686",
+      "classid": "1989284963",
+      "instanceid": "302028390",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "25539513261",
+      "classid": "1989295437",
+      "instanceid": "302028390",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "24476825212",
+      "classid": "4693725102",
+      "instanceid": "4694960227",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "24147837731",
+      "classid": "4698562094",
+      "instanceid": "4659845695",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "23931904018",
+      "classid": "4593245892",
+      "instanceid": "188530139",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "23907526229",
+      "classid": "520026483",
+      "instanceid": "480085569",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "23786870571",
+      "classid": "4572376272",
+      "instanceid": "188530139",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "22526174178",
+      "classid": "4289752415",
+      "instanceid": "188530139",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "22419840715",
+      "classid": "4249616005",
+      "instanceid": "4443062657",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "22109369446",
+      "classid": "778383679",
+      "instanceid": "0",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "18086149893",
+      "classid": "3518024194",
+      "instanceid": "301750157",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "18086146693",
+      "classid": "3474287815",
+      "instanceid": "301750157",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "17931875852",
+      "classid": "3600712229",
+      "instanceid": "301750157",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "17558905254",
+      "classid": "3653202725",
+      "instanceid": "3666177568",
+      "amount": "1"
+    },
+    {
+      "appid": 730,
+      "contextid": "2",
+      "assetid": "15201605243",
+      "classid": "3106076676",
+      "instanceid": "0",
+      "amount": "1"
+    }
+  ],
+
+
+
+  "descriptions": [
+    {
+      "appid": 730,
+      "classid": "3946324730",
+      "instanceid": "0",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU2nfGaJG0btN2wwYHfxa-hY-uFxj4Dv50nj7uXpI7w3AewrhBpMWH6d9CLMlhpEbAe-Zk",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Контейнер тиража #307",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Внутри находится один из следующих предметов:"
+        },
+        {
+          "type": "html",
+          "value": "Негев | Сверхлёгкий",
+          "color": "4b69ff"
+        },
+        {
+          "type": "html",
+          "value": "P2000 | Искривление",
+          "color": "4b69ff"
+        },
+        {
+          "type": "html",
+          "value": "SG 553 | Старина Ржавчик",
+          "color": "4b69ff"
+        },
+        {
+          "type": "html",
+          "value": "SSG 08 | Мейнфрейм 001",
+          "color": "4b69ff"
+        },
+        {
+          "type": "html",
+          "value": "P250 | Кассета",
+          "color": "4b69ff"
+        },
+        {
+          "type": "html",
+          "value": "P90 | Грузовой",
+          "color": "4b69ff"
+        },
+        {
+          "type": "html",
+          "value": "ПП-19 «Бизон» | Рунопись",
+          "color": "4b69ff"
+        },
+        {
+          "type": "html",
+          "value": "MAG-7 | Зов монстра",
+          "color": "8847ff"
+        },
+        {
+          "type": "html",
+          "value": "Tec-9 | Брат",
+          "color": "8847ff"
+        },
+        {
+          "type": "html",
+          "value": "MAC-10 | Шарм",
+          "color": "8847ff"
+        },
+        {
+          "type": "html",
+          "value": "Автомат «Галиль» | Подразделение",
+          "color": "8847ff"
+        },
+        {
+          "type": "html",
+          "value": "MP5-SD | Умелые ручки",
+          "color": "8847ff"
+        },
+        {
+          "type": "html",
+          "value": "M4A4 | Зубная фея",
+          "color": "d32ce6"
+        },
+        {
+          "type": "html",
+          "value": "Glock-18 | Мода",
+          "color": "d32ce6"
+        },
+        {
+          "type": "html",
+          "value": "XM1014 | Погребённый",
+          "color": "d32ce6"
+        },
+        {
+          "type": "html",
+          "value": "Desert Eagle | Поток информации",
+          "color": "eb4b4b"
+        },
+        {
+          "type": "html",
+          "value": "AK-47 | Легион Анубиса",
+          "color": "eb4b4b"
+        },
+        {
+          "type": "html",
+          "value": "или крайне редкий особый предмет!",
+          "color": "ffd700"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 1,
+      "name": "Кейс «Разлом»",
+      "name_color": "D2D2D2",
+      "type": "Контейнер, базового класса",
+      "market_name": "Кейс «Разлом»",
+      "market_hash_name": "Fracture Case",
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_WeaponCase",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Контейнер"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_community_26",
+          "localized_category_name": "Набор",
+          "localized_tag_name": "Коллекция «Разлом»"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "базового класса",
+          "color": "b0c3d9"
+        }
+      ],
+      "market_buy_country_restriction": "FR"
+    },
+    {
+      "appid": 730,
+      "classid": "3035568810",
+      "instanceid": "302028390",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLbUkmJE5Ytz3uiToNXx0Q21rxVlajugLdLDelU4Z16Cq1a_w-jujJXqv5_LmHMypGB8sqBoiBpM",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLbUkmJE5fp9i_vG8ML33FXm_ko4amCicNCce1RtaAyG8gK4x-i91JG9vpvIwHE1uSIgtH6MgVXp1h2lFzCQ",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Износ: После полевых испытаний"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Пистолет P250 — огнестрельное оружие с высоким темпом стрельбы и низкой отдачей, представляющее собой относительно недорогой выбор против бронированных противников. Красной аквапечатью нанесён узор, напоминающий планировку атомной электростанции.\n\n<i>Создаём энергию из атома</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Коллекция «Nuke 2018»",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D12431729660343118310",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "P250 | Чертёж-планировка",
+      "name_color": "D2D2D2",
+      "type": "Пистолет, Ширпотреб",
+      "market_name": "P250 | Чертёж-планировка (После полевых испытаний)",
+      "market_hash_name": "P250 | Facility Draft (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D12431729660343118310",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Pistol",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Пистолет"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_p250",
+          "localized_category_name": "Оружие",
+          "localized_tag_name": "P250"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_nuke_2",
+          "localized_category_name": "Набор",
+          "localized_tag_name": "Коллекция «Nuke 2018»"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common_Weapon",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "Ширпотреб",
+          "color": "b0c3d9"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory2",
+          "localized_category_name": "Оформление",
+          "localized_tag_name": "После полевых испытаний"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "2076470635",
+      "instanceid": "188530448",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0TFSeC_0svHW2IkdEpR4Or2eV81g_KaJzgb7o2wkIPSkq-gYO7QwzwFup0jiLuWotWn3wDj5QMyNELH2QwT",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "На этом предмете используется технология StatTrak™, которая отслеживает определённые показатели владельца.",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Награды СЦИ в соревновательных играх, записанные StatTrak™: 17",
+          "color": "CF6A32"
+        },
+        {
+          "type": "html",
+          "value": "*Статистика этого предмета будет сброшена при обмене или продаже на Торговой площадке",
+          "color": "ff4040"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\n\nМузыкальный набор заменяет следующую музыку:\n- Главное меню\n- Конец и начало раунда\n- Задача карты\n- Десятисекундное предупреждение\n- Камера после смерти"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Hundredth покажет миру настоящую тяжесть своим уникальный подходом к музыке в жанре «мелодик-хардкор». Познайте свободу или вернитесь на карту Dust под эти мелодии, идеальные для разноса неугодных."
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 1,
+      "name": "StatTrak™ Набор музыки | Hundredth — FREE",
+      "name_color": "CF6A32",
+      "type": "Набор музыки, StatTrak™, высшего класса",
+      "market_name": "StatTrak™ Набор музыки | Hundredth — FREE",
+      "market_hash_name": "StatTrak™ Music Kit | Hundredth, FREE",
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_MusicKit",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Набор музыки"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "strange",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "StatTrak™",
+          "color": "CF6A32"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Rare",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "высшего класса",
+          "color": "4b69ff"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1989273209",
+      "instanceid": "302028390",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0oPqID0v0ejjXPCTdUlg_RbNeZ2GK-WGnsb_BQTzIF7t6RQwEfaAN-mBMbs2KPBZv0NMCrjH2h0p6WBUnfspUfRq33n0DPaR4yiBEfclQq6F5WYU",
+      "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0oPqID0v0ejjXPCTdI1JpD-QLK2yKqjP05-6TQG7MQL4pRQsDKKFX9WcaP5jYbRc03IYJrmS-whAsHU9mYstBNgy0xnsBPKgp3CgCKdJfy3X2LsbbplLBLkU",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2739428442642507748",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Запечатанный граффити | Скрещённые топоры (Взрывной розовый)",
+      "name_color": "D2D2D2",
+      "type": "Граффити, базового класса",
+      "market_name": "Запечатанный граффити | Скрещённые топоры (Взрывной розовый)",
+      "market_hash_name": "Sealed Graffiti | X-Axes (Bazooka Pink)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2739428442642507748",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Spray",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Граффити"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "базового класса",
+          "color": "b0c3d9"
+        },
+        {
+          "category": "SprayColorCategory",
+          "internal_name": "Tint16",
+          "localized_category_name": "Цвет граффити",
+          "localized_tag_name": "Взрывной розовый"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1989282886",
+      "instanceid": "302028390",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qeODGEv7ZyTBPW-LSl1rSeJZN27f-TGgtrvBE27KReEuFlhRf6QB8mBANZvdPBJr1dNf5XW2kAJ-ERonYMhTfBuy2ngKbLlxy3hHJ-OM-L6p",
+      "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qeODGEv7ZyTBPR7VHUxvGK1dNG_Y_Tei7OuVFz2cSOAsQQ8EevcMo20aacjfPxQ10oENqDXpkxMlUAYmdYNFfwO02HkGPaks2C0LeM9Wyi31dHCKkKmL",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D13839184951534462440",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Запечатанный граффити | Неудачник (Дорожный желтый)",
+      "name_color": "D2D2D2",
+      "type": "Граффити, базового класса",
+      "market_name": "Запечатанный граффити | Неудачник (Дорожный желтый)",
+      "market_hash_name": "Sealed Graffiti | Loser (Tracer Yellow)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D13839184951534462440",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Spray",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Граффити"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "базового класса",
+          "color": "b0c3d9"
+        },
+        {
+          "category": "SprayColorCategory",
+          "internal_name": "Tint6",
+          "localized_category_name": "Цвет граффити",
+          "localized_tag_name": "Дорожный желтый"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "5136977003",
+      "instanceid": "5145226093",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Uz7P_efWwM6d_izYbdwqf2ZuPUkm5UuJ0mjLrC84ql2wfm-Etkajj1J46VclA2YUaQpAZ9E8fbNw",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Uz7P_efWx94N2kk4XFxqekYbqIxjkCsJFzibmU8NSj2g2xqkE5YmH0cdeddwZvMw7Y-FS_lfCv28FCSDpoHA",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Награда за выдающиеся достижения и службу в 2023 году."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Дата выпуска: 07 янв 2023 GMT",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": ""
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D17035161031806172293",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Медаль за службу в 2023 году",
+      "name_color": "D2D2D2",
+      "type": "Сувенир, экстраординарного типа",
+      "market_name": "Медаль за службу в 2023 году",
+      "market_hash_name": "2023 Service Medal",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D17035161031806172293",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 0,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Collectible",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Сувенир"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Ancient",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "экстраординарного типа",
+          "color": "eb4b4b"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1989286467",
+      "instanceid": "302028390",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qe6yGX3wYCPGLi3VUgluTOVdNDvf_WH05ezFS2nIROp_Fg0CL_cE-jYdOJraPBQ5htQD_zL2h0p6WBUnfspUfRq33n0DPaR4yiBEfclQrqNwyGk",
+      "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0qe6yGX3wYCPGLi3VI1JpD-QLKz2M-WKlt76UQjGbF-0lSwwMePAD9GdLOc3bbkY50oEM8jfqwUEqSUFmYstBNgy0xnsBPKgp3CgCKdJfy3X2LsbbhJl-sv8",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2633138217140235594",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Запечатанный граффити | Шар судьбы (Взрывной розовый)",
+      "name_color": "D2D2D2",
+      "type": "Граффити, базового класса",
+      "market_name": "Запечатанный граффити | Шар судьбы (Взрывной розовый)",
+      "market_hash_name": "Sealed Graffiti | 8-Ball (Bazooka Pink)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2633138217140235594",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Spray",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Граффити"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "базового класса",
+          "color": "b0c3d9"
+        },
+        {
+          "category": "SprayColorCategory",
+          "internal_name": "Tint16",
+          "localized_category_name": "Цвет граффити",
+          "localized_tag_name": "Взрывной розовый"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1989287235",
+      "instanceid": "302028390",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3z2eCfdYXfYSwlsSbJeMTrbqzOts7mSQznOSOt5RgFSKKYG82BBacuLOhJshtYVu2u_0UdyEhk6f9BKZAarxm1OMLh9m3IWpQ6jczI",
+      "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3z2eCfdEC3YDlltU7QIMWiK_Was7O-dRT_AQ-5-EAlRePQFoWIYb53YOBNr1dVZ_zG-wxYzDhgvNMZJfACpx2EfJbQ1xDhPJM5amiek9QfSbwA",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2893117480449238318",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Запечатанный граффити | Зубастик (Пустынный янтарный)",
+      "name_color": "D2D2D2",
+      "type": "Граффити, базового класса",
+      "market_name": "Запечатанный граффити | Зубастик (Пустынный янтарный)",
+      "market_hash_name": "Sealed Graffiti | Mr. Teeth (Desert Amber)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2893117480449238318",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Spray",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Граффити"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "базового класса",
+          "color": "b0c3d9"
+        },
+        {
+          "category": "SprayColorCategory",
+          "internal_name": "Tint5",
+          "localized_category_name": "Цвет граффити",
+          "localized_tag_name": "Пустынный янтарный"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "3472118194",
+      "instanceid": "301750157",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKgw0hL3JIm8S6o3lkoWKw_GmYr-Ak2kC6pEn3L6Z8dr32Qax8kQ_MT3yJIOXbEZgNjyC1Cwf",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Мощная и надежная штурмовая винтовка АК-47 — одна из самых известных в мире. Наиболее смертельна стрельба короткими и точными очередями."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": ""
+        },
+        {
+          "type": "html",
+          "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Наклейка\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_golden.585524d653cdf1c04c541397999c7f2fdc4c336b.png\"><br>Наклейка: Golden | Берлин 2019</center></div>"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5388067552532645203",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "AK-47",
+      "name_color": "D2D2D2",
+      "type": "Винтовка, Стандартное",
+      "market_name": "AK-47",
+      "market_hash_name": "AK-47",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D5388067552532645203",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 0,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Rifle",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Винтовка"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_ak47",
+          "localized_category_name": "Оружие",
+          "localized_tag_name": "AK-47"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Default_Weapon",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "Стандартное",
+          "color": "ded6cc"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategoryNA",
+          "localized_category_name": "Оформление",
+          "localized_tag_name": "Не покрашено"
+        },
+        {
+          "category": "Tournament",
+          "internal_name": "Tournament16",
+          "localized_category_name": "Турнир",
+          "localized_tag_name": "StarLadder Berlin 2019"
+        },
+        {
+          "category": "TournamentTeam",
+          "internal_name": "Team1",
+          "localized_category_name": "Команда",
+          "localized_tag_name": "Ninjas in Pyjamas"
+        },
+        {
+          "category": "ProPlayer",
+          "internal_name": "golden",
+          "localized_category_name": "Профессиональный игрок",
+          "localized_tag_name": "Golden (Майкиль Селим)"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1989329394",
+      "instanceid": "302028390",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0su2fDm25bWCWeXKPT1sxTLBaYDrb-GX2t7_BQ2rOFbotEVhXLKoCpzBJNciBOQx9itAdqGq0mFZwCxo8e9VKaVLvmyMSZbx8AM2hPg",
+      "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0su2fDm3IZDbWKCSXSQ5sTLRXYzzd_mGnt-vGFjGYR7okEV9RL6VWp2RAaMuNPUdrh4MPqSuomUM7HRkkfddLZQOvw2QfKOBxmXYTccpKVM3ZCA",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5386991008020442474",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Запечатанный граффити | Прости (Лесной зелёный)",
+      "name_color": "D2D2D2",
+      "type": "Граффити, базового класса",
+      "market_name": "Запечатанный граффити | Прости (Лесной зелёный)",
+      "market_hash_name": "Sealed Graffiti | Sorry (Jungle Green)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D5386991008020442474",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Spray",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Граффити"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "базового класса",
+          "color": "b0c3d9"
+        },
+        {
+          "category": "SprayColorCategory",
+          "internal_name": "Tint8",
+          "localized_category_name": "Цвет граффити",
+          "localized_tag_name": "Лесной зелёный"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1989287051",
+      "instanceid": "302028390",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3blaT7KIyTKDxBuTLYIPGrb-jantOnFFGzBELskQABWfacH8DUaP5yIbhY019IP_2Po2VRzGVArfclJYgKuxmAaIbE8lXlFcZ9Wnc7kg8XE",
+      "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3blaT7KIyTKD2FkHPEJYHbR_2ej5-zAF27KR7x9QVhXL6tQoWdMOsiOPxM81o8C_GHtwkd-HEMqPNVId0m4xXgcI7AwxDUbNccblCz3IpDdgc5fsBdW",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D45848954679904230",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Запечатанный граффити | Нет слов (Кирпичный красный)",
+      "name_color": "D2D2D2",
+      "type": "Граффити, базового класса",
+      "market_name": "Запечатанный граффити | Нет слов (Кирпичный красный)",
+      "market_hash_name": "Sealed Graffiti | Speechless (Brick Red)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D45848954679904230",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Spray",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Граффити"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "базового класса",
+          "color": "b0c3d9"
+        },
+        {
+          "category": "SprayColorCategory",
+          "internal_name": "Tint1",
+          "localized_category_name": "Цвет граффити",
+          "localized_tag_name": "Кирпичный красный"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1989279170",
+      "instanceid": "302028390",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0o_ePHnjyVzPBLiWXSgw9TrMMY2jbqGCm5OvCF27BF-4tRFtVfqoApzJNNc7YPRo60IQN8iuomUM7HRkkfddLZQOvw2QfKOAkzXlBds_2RqEi2w",
+      "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0o_ePHnjyVzPBLiXmEF96GuZANGnRrGWt4uzHRTvNQOEuFwxSK_YF9jVLa8raOEE51oID_GbvkxYpS1g4fMIAcwC3xWYeJLExwTEePJYDzCzzJcBjIvojzA",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2605413203431301514",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Запечатанный граффити | Предсмертное послание (Пустынный янтарный)",
+      "name_color": "D2D2D2",
+      "type": "Граффити, базового класса",
+      "market_name": "Запечатанный граффити | Предсмертное послание (Пустынный янтарный)",
+      "market_hash_name": "Sealed Graffiti | Death Sentence (Desert Amber)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2605413203431301514",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Spray",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Граффити"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "базового класса",
+          "color": "b0c3d9"
+        },
+        {
+          "category": "SprayColorCategory",
+          "internal_name": "Tint5",
+          "localized_category_name": "Цвет граффити",
+          "localized_tag_name": "Пустынный янтарный"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "4956553487",
+      "instanceid": "565664004",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fRPG91M7YVmIldTtOs7u3ZQE2gaabdGQVtIzkwtnZlK73a7mDkjkFupYgj-jHrYnxiwax_RBqZ2jtZNjCJovP63M",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fRPG91M7YVmIldTtOs7u3FAthwfTNP2tA6oy0xtDYxPGkN-vUwztV7cEgib2YpI722Vfi-EBsMjr2cICWJAEgIQaHraH6AIg",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "За празднование десятого дня рождения CS:GO вместе с сообществом игры.\n\n<i>Отметим десять лет хедшотов, клатчей и дружбы. С днём рождения, CS:GO!</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": ""
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D10287006821772923953",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Монета десятилетнего юбилея",
+      "name_color": "D2D2D2",
+      "type": "Сувенир, экстраординарного типа",
+      "market_name": "Монета десятилетнего юбилея",
+      "market_hash_name": "10 Year Birthday Coin",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D10287006821772923953",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 0,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Collectible",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Сувенир"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Ancient",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "экстраординарного типа",
+          "color": "eb4b4b"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1989285742",
+      "instanceid": "302028390",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0ouqID2fIYz7KKG-LGgcxSrIMNjna_GChtOjCFjCfROt5Qw4CLqIN9GFOOZ2AahJu1tYO5XW2kAJ-ERonYMhTfBuy2ngKbOl9kCdKdeSXzUt1",
+      "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0ouqID2fIYz7KKB7VHUxvGK1WYW-P_2Gi7buUQDHAFeApQAEFdPAG9DZJPM3fbENshoNfrTa-kkAlUAYmdYNFfwO02HkGPaks2C0LeJ9akXL4Jh-B-Yhv",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5083594113532715466",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Запечатанный граффити | Шахматный король (Лягушачий зелёный)",
+      "name_color": "D2D2D2",
+      "type": "Граффити, базового класса",
+      "market_name": "Запечатанный граффити | Шахматный король (Лягушачий зелёный)",
+      "market_hash_name": "Sealed Graffiti | Chess King (Frog Green)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D5083594113532715466",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Spray",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Граффити"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "базового класса",
+          "color": "b0c3d9"
+        },
+        {
+          "category": "SprayColorCategory",
+          "internal_name": "Tint9",
+          "localized_category_name": "Цвет граффити",
+          "localized_tag_name": "Лягушачий зелёный"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1989284963",
+      "instanceid": "302028390",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3X5byXdYXDfHlw9GecIMT3Zqzaj7bnGFjGdSOklRlgFfqpX8mFJPMmObBdogIYVu2u_0UdyEhk6f9BKZAarxm1OZ78knSNAcXyUyfI",
+      "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pO-CI3X5byXdEC3YDlltU7oPMm_c9zrw4uycEzCYR75-ElsHKKUN8mVLaMmAOxI40oIPrzfuwkAzDhgvNMZJfACpx2EfJbQ1xDhPc8kDnHbyXW0d7nQ",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D9560686560398207428",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Запечатанный граффити | Вредина (Пластиковый синий)",
+      "name_color": "D2D2D2",
+      "type": "Граффити, базового класса",
+      "market_name": "Запечатанный граффити | Вредина (Пластиковый синий)",
+      "market_hash_name": "Sealed Graffiti | Tilt (Wire Blue)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D9560686560398207428",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Spray",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Граффити"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "базового класса",
+          "color": "b0c3d9"
+        },
+        {
+          "category": "SprayColorCategory",
+          "internal_name": "Tint11",
+          "localized_category_name": "Цвет граффити",
+          "localized_tag_name": "Пластиковый синий"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1989295437",
+      "instanceid": "302028390",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0ouqID2fIYz7KKG-LGgcxSrIMNjna_GChtOjCFjCfROt5Qw4CLqIN9GFOOZ2AahJu1tYO5XW2kAJ-ERonYMhTfBuy2ngKbLlxy3hHJ7MMMmrO",
+      "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0ouqID2fIYz7KKB7VHUxvGK1WYW-P_2Gi7buUQDHAFeApQAEFdPAG9DZJPM3fbENshoNfrTa-kkAlUAYmdYNFfwO02HkGPaks2C0LeM9Wyi31dOWQ4TyR",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "",
+          "color": "00a000"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16429733763130885516",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Запечатанный граффити | Шахматный король (Дорожный желтый)",
+      "name_color": "D2D2D2",
+      "type": "Граффити, базового класса",
+      "market_name": "Запечатанный граффити | Шахматный король (Дорожный желтый)",
+      "market_hash_name": "Sealed Graffiti | Chess King (Tracer Yellow)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16429733763130885516",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 1,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Spray",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Граффити"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Common",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "базового класса",
+          "color": "b0c3d9"
+        },
+        {
+          "category": "SprayColorCategory",
+          "internal_name": "Tint6",
+          "localized_category_name": "Цвет граффити",
+          "localized_tag_name": "Дорожный желтый"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "4693725102",
+      "instanceid": "4694960227",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Uy7P_efWwMuI63ldCOlKWlZOLQxTwAucQjj-yR8d-m2VfhqkBvZGmlIoXBIVJoM0aQpAZRtkzP5w",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Uy7P_efWx94N2kk4XFlKKjZuyAkDpUv5Mh2e_E9tig2VG3rRFta2r3I4STJ1I4aVjWqVa3wvCv28E5vXoJEg",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Награда за выдающиеся достижения и службу в 2022 году."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Дата выпуска: 02 янв 2022 GMT",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": ""
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2480303172456481397",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Медаль за службу в 2022",
+      "name_color": "D2D2D2",
+      "type": "Сувенир, экстраординарного типа",
+      "market_name": "Медаль за службу в 2022",
+      "market_hash_name": "2022 Service Medal",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2480303172456481397",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 0,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Collectible",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Сувенир"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Ancient",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "экстраординарного типа",
+          "color": "eb4b4b"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "4698562094",
+      "instanceid": "4659845695",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fSPSoxc7HWlJ6GlUGiaqpKhNp3ebFP2wauo6yktSJkfasar-EwzJX650ojr_CoIqs3wC1rkI9amH0d9PHdAIgIQaHITGNeoc",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fSPSoxc7HWlJ6GlUGiaqpKhNp3ebFTjFD_tuz2oKNxfTxNunVlW1Q6pFz2O3Hodn3igSyqEFuYTz1Jo7GdVU9NFDW-1OggbC4BIyn1vs",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "За завершение операции «Хищные воды»."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Время начала: 05 дек 2021 GMT",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": ""
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D4955629433007742072",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Бриллиантовая монета операции «Хищные воды»",
+      "name_color": "D2D2D2",
+      "type": "Сувенир, экстраординарного типа",
+      "market_name": "Бриллиантовая монета операции «Хищные воды»",
+      "market_hash_name": "Diamond Operation Riptide Coin",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D4955629433007742072",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 0,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Collectible",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Сувенир"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Ancient",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "экстраординарного типа",
+          "color": "eb4b4b"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "4593245892",
+      "instanceid": "188530139",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7duJgJKCkPDxIYTVn3hS4dV9g-fEyoHwjF2hpl1uam-mcoeVIFNoYVGB_gTow7zqgsS1v5TJzHpq7HUrs3bZyxCwg0wdcKUx0iHm0tj7",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7duJgJKCkPDxIYTVn3hS4dV9g-fEyoHwjF2hpiwwMiukcZiXewBrN1nQqATowee-gcPqvs_MziBquSki4HfUyUC-1xFIOuBoh6HPVxzAUBHJEejT",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Износ: После полевых испытаний"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Дорогой и крайне мощный Desert Eagle — знаковый пистолет, который непросто освоить, хоть он и удивительно точен на дальних дистанциях. На ствол нанесён розовый изометрический узор, а курок и мушка окрашены в ярко-синий цвет.\n\n<i>Терпение вознаграждается</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Коллекция «Змеиный укус»",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Наклейка\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/shattered_web/terrorist_tech_m9.e58f96eac3173f09de42ea00ea74d2a5dc814be0.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/g2_holo.7e4ec07406f9d6a20bc5ea0a94c74b6a9208ecc4.png\"><br>Наклейка: Тер-тех, G2 (голографическая) | РМР 2020</center></div>"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D10259279546102753451",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Desert Eagle | Стрелковая дисциплина",
+      "name_color": "D2D2D2",
+      "type": "Пистолет, Запрещённое",
+      "market_name": "Desert Eagle | Стрелковая дисциплина (После полевых испытаний)",
+      "market_hash_name": "Desert Eagle | Trigger Discipline (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D10259279546102753451",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Pistol",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Пистолет"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_deagle",
+          "localized_category_name": "Оружие",
+          "localized_tag_name": "Desert Eagle"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_community_28",
+          "localized_category_name": "Набор",
+          "localized_tag_name": "Коллекция «Змеиный укус»"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Mythical_Weapon",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "Запрещённое",
+          "color": "8847ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory2",
+          "localized_category_name": "Оформление",
+          "localized_tag_name": "После полевых испытаний"
+        },
+        {
+          "category": "Tournament",
+          "internal_name": "Tournament17",
+          "localized_category_name": "Турнир",
+          "localized_tag_name": "РМР 2020"
+        },
+        {
+          "category": "TournamentTeam",
+          "internal_name": "Team59",
+          "localized_category_name": "Команда",
+          "localized_tag_name": "G2 Esports"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "520026483",
+      "instanceid": "480085569",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cmoX7ZGinYeOhcj5Nr_Yg2Yf7sEjibyYpI6s2gTtqUc5am_2d9SUegE2ZQ7V-gS5xLju0JO9vprNmGwj5Hcktl56VA",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cmoX7ZGinYeOhcj5Nr_Yg2Zu5MRjjeyP84iniwHt-hFlYWn6doLAewA7MgrR8la2xbjqhcO7ucvInHdiuCcmtGGdwUJmeETkpg",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Износ: После полевых испытаний"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Будучи автоматическим вариантом CZ75, CZ75-Auto — идеальный вариант для тех, кто собирается использовать оружие павших противников. Но из-за небольшого запаса патронов при стрельбе вам придется быть куда аккуратнее. Раскрашено вручную с помощью глянцевой краски на мотив тигровых полос."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Коллекция «Прорыв»",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2947300345639450485",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "CZ75-Auto | Тигр",
+      "name_color": "D2D2D2",
+      "type": "Пистолет, Запрещённое",
+      "market_name": "CZ75-Auto | Тигр (После полевых испытаний)",
+      "market_hash_name": "CZ75-Auto | Tigris (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2947300345639450485",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Pistol",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Пистолет"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_cz75a",
+          "localized_category_name": "Оружие",
+          "localized_tag_name": "CZ75-Auto"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_community_4",
+          "localized_category_name": "Набор",
+          "localized_tag_name": "Коллекция «Прорыв»"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Mythical_Weapon",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "Запрещённое",
+          "color": "8847ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory2",
+          "localized_category_name": "Оформление",
+          "localized_tag_name": "После полевых испытаний"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "4572376272",
+      "instanceid": "188530139",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j2P7rSnVRd59FkmdbM8Ij8nVn6-EZkamGhdYWcI1JsN1vZ8wC_wOjt08TovJrAyntluXMr4X6JnxDj0AYMMLISQJ5tKw",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j2P7rSnVRd59FkmdbM8Ij8nVmLpxIuNDztJ4Odew5sMFvZqwXsl-3mjMe9vZvLnyA3uicr5nbbnEa-hRkYbuA71OveFwu-dzlANw",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Износ: После полевых испытаний"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Пистолет USP, любимец игроков в Counter-Strike: Source, имеет отсоединяемый глушитель, который позволяет наносить точные выстрелы, одновременно поглощая привлекающий излишнее внимание шум. На затвор нанесён рисунок чёрного лотоса.\n\n<i>Добавьте три убийства в пистолетном раунде, затем сбросьте</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Коллекция операции «Хищные воды»",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D9989802589156921793",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "USP-S | Чёрный лотос",
+      "name_color": "D2D2D2",
+      "type": "Пистолет, Армейское качество",
+      "market_name": "USP-S | Чёрный лотос (После полевых испытаний)",
+      "market_hash_name": "USP-S | Black Lotus (Field-Tested)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D9989802589156921793",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Pistol",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Пистолет"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_usp_silencer",
+          "localized_category_name": "Оружие",
+          "localized_tag_name": "USP-S"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_community_29",
+          "localized_category_name": "Набор",
+          "localized_tag_name": "Коллекция операции «Хищные воды»"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Rare_Weapon",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "Армейское качество",
+          "color": "4b69ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory2",
+          "localized_category_name": "Оформление",
+          "localized_tag_name": "После полевых испытаний"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "4289752415",
+      "instanceid": "188530139",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79fnzL-ckvbnNrfunm5Q_tw_2bmY8Yrz2A23r0NrZGymIoTDdg9vYw3Q_1m7k-vojMe-vpWfz3M2uD5iuyi9P7cw6A",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79fnzL-ckvbnNrfunm5Q_txOhujT8om72wTtrxU6Y2CgcIaSdQNrZ1qG_ljvw7vvgJ657pjOwCNhuCh0436InQv330860C2nnQ",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Износ: Закалённое в боях"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Пистолет Glock-18 подходит для первого раунда. Он наиболее эффективен против противников без бронежилета и может вести огонь очередями из трёх выстрелов. Аквапечатью нанесен рисунок своенравного самца ласки по имени Бобби. Не злите его.\n\n<i>Даже ласковый укус может стать смертельным</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Коллекция «Гамма 2»",
+          "color": "9da1a9"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Наклейка\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/broken_fang/broken_fang.904f5546b017d5c5c2f14146ef3455726e0f61a3.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/broken_fang/enemy_spotted.e836774c68ff10ffb1829f377983a318c9bf5e7f.png\"><br>Наклейка: Сломанный клык, Пятнистый враг</center></div>"
+        }
+      ],
+      "tradable": 1,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2648165966175162180",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Glock-18 | Ласка",
+      "name_color": "D2D2D2",
+      "type": "Пистолет, Запрещённое",
+      "market_name": "Glock-18 | Ласка (Закалённое в боях)",
+      "market_hash_name": "Glock-18 | Weasel (Battle-Scarred)",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2648165966175162180",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 1,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Pistol",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Пистолет"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_glock",
+          "localized_category_name": "Оружие",
+          "localized_tag_name": "Glock-18"
+        },
+        {
+          "category": "ItemSet",
+          "internal_name": "set_gamma_2",
+          "localized_category_name": "Набор",
+          "localized_tag_name": "Коллекция «Гамма 2»"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Mythical_Weapon",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "Запрещённое",
+          "color": "8847ff"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategory4",
+          "localized_category_name": "Оформление",
+          "localized_tag_name": "Закалённое в боях"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "4249616005",
+      "instanceid": "4443062657",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Ux7P_efWwMtN20kdWPwKCtZejQk24FusYm2ruYotyjiVHjqRc_ZDjzIISUcQBrM0aQpAbzEcpifA",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Ux7P_efWx94N2kk4XFx_akYLmDwjlVvMQhieyRotSg3gLl8kE_NmqlJdLDcQRrYVqB-gC6yPCv28H_JRFDGA",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Награда за выдающиеся достижения и службу в 2021 году."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Дата выпуска: 22 май 2021 GMT",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": ""
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16601223507188008967",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Медаль за службу в 2021",
+      "name_color": "D2D2D2",
+      "type": "Сувенир, экстраординарного типа",
+      "market_name": "Медаль за службу в 2021",
+      "market_hash_name": "2021 Service Medal",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16601223507188008967",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 0,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Collectible",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Сувенир"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Ancient",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "экстраординарного типа",
+          "color": "eb4b4b"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "778383679",
+      "instanceid": "0",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fEv2o1t3QXFR6a1wE4uOkKlFm0qvJd2gSvYS3x9nbwfXyZrqBxDkCvZYmjurEpomlilL6ux07YtuiRwA",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fEv2o1t3QXFR6GghWpL2gZV9mi6CdIGpG7ti3wdONlKaka-uEkDsB6sMhj7rHoNXx2wSxrkZsYGrtZNjC6pZOE0g",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "За участие в сообществе Counter-Strike на протяжении более пяти лет."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": ""
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D4784762753708642872",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Монета за 5 лет службы",
+      "name_color": "D2D2D2",
+      "type": "Сувенир, экстраординарного типа",
+      "market_name": "Монета за 5 лет службы",
+      "market_hash_name": "5 Year Veteran Coin",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D4784762753708642872",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 0,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Collectible",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Сувенир"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Ancient",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "экстраординарного типа",
+          "color": "eb4b4b"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "3518024194",
+      "instanceid": "301750157",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaJlNhgr2bKD8R7tjukNXewfKhML_UlGkGscEn2rCRp9ih2g3s_RY-ajimcNDDbEZgNizBLg0r",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "M4A4 — более точный, но слабый аналог АК-47 — полностью автоматическая штурмовая винтовка, которая находится исключительно на вооружении у спецназа."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": ""
+        },
+        {
+          "type": "html",
+          "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Наклейка\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_alex.5bf6f7e321267ca20560363a8c831f87f2114e59.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_golden.585524d653cdf1c04c541397999c7f2fdc4c336b.png\"><br>Наклейка: ALEX | Берлин 2019, Golden | Берлин 2019</center></div>"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7512145236632627372",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "M4A4",
+      "name_color": "D2D2D2",
+      "type": "Винтовка, Стандартное",
+      "market_name": "M4A4",
+      "market_hash_name": "M4A4",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7512145236632627372",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 0,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Rifle",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Винтовка"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_m4a1",
+          "localized_category_name": "Оружие",
+          "localized_tag_name": "M4A4"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Default_Weapon",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "Стандартное",
+          "color": "ded6cc"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategoryNA",
+          "localized_category_name": "Оформление",
+          "localized_tag_name": "Не покрашено"
+        },
+        {
+          "category": "Tournament",
+          "internal_name": "Tournament16",
+          "localized_category_name": "Турнир",
+          "localized_tag_name": "StarLadder Berlin 2019"
+        },
+        {
+          "category": "TournamentTeam",
+          "internal_name": "Team89",
+          "localized_category_name": "Команда",
+          "localized_tag_name": "Vitality"
+        },
+        {
+          "category": "TournamentTeam",
+          "internal_name": "Team1",
+          "localized_category_name": "Команда",
+          "localized_tag_name": "Ninjas in Pyjamas"
+        },
+        {
+          "category": "ProPlayer",
+          "internal_name": "alex",
+          "localized_category_name": "Профессиональный игрок",
+          "localized_tag_name": "ALEX (Алекс Макмикин)"
+        },
+        {
+          "category": "ProPlayer",
+          "internal_name": "golden",
+          "localized_category_name": "Профессиональный игрок",
+          "localized_tag_name": "Golden (Майкиль Селим)"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "3474287815",
+      "instanceid": "301750157",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaLwJh1P_NP28b6YSwxITck6f2Nu7UwTgG7JF33L-S8Imtigft_xFpMGCmJIbHJlIgIQaH3GjvkKk",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Дорогой и крайне мощный Desert Eagle — знаковый пистолет, который непросто освоить, хоть он и удивительно точен на дальних дистанциях."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": ""
+        },
+        {
+          "type": "html",
+          "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Наклейка\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/berlin2019/sig_alex.5bf6f7e321267ca20560363a8c831f87f2114e59.png\"><br>Наклейка: ALEX | Берлин 2019</center></div>"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2461477507925672043",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Desert Eagle",
+      "name_color": "D2D2D2",
+      "type": "Пистолет, Стандартное",
+      "market_name": "Desert Eagle",
+      "market_hash_name": "Desert Eagle",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2461477507925672043",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 0,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Pistol",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Пистолет"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_deagle",
+          "localized_category_name": "Оружие",
+          "localized_tag_name": "Desert Eagle"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Default_Weapon",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "Стандартное",
+          "color": "ded6cc"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategoryNA",
+          "localized_category_name": "Оформление",
+          "localized_tag_name": "Не покрашено"
+        },
+        {
+          "category": "Tournament",
+          "internal_name": "Tournament16",
+          "localized_category_name": "Турнир",
+          "localized_tag_name": "StarLadder Berlin 2019"
+        },
+        {
+          "category": "TournamentTeam",
+          "internal_name": "Team89",
+          "localized_category_name": "Команда",
+          "localized_tag_name": "Vitality"
+        },
+        {
+          "category": "ProPlayer",
+          "internal_name": "alex",
+          "localized_category_name": "Профессиональный игрок",
+          "localized_tag_name": "ALEX (Алекс Макмикин)"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "3600712229",
+      "instanceid": "301750157",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaKhBwnaGQKGRHvd_gx9TekvOkZr-HxGlV6sAg27vF99332QXjr0NuYTz3I4GLMlhpm0KUJjU",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Печально известная снайперская винтовка AWP — очень опасное и очень эффективное оружие, которое легко узнается по характерному звуку выстрела и жестокому правилу: «один выстрел, один труп»."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": ""
+        },
+        {
+          "type": "html",
+          "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Наклейка\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/shattered_web/terrorist_tech_m9.e58f96eac3173f09de42ea00ea74d2a5dc814be0.png\"><br>Наклейка: Тер-тех</center></div>"
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D3037889805548575343",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "AWP",
+      "name_color": "D2D2D2",
+      "type": "Снайперская винтовка, Стандартное",
+      "market_name": "AWP",
+      "market_hash_name": "AWP",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D3037889805548575343",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 0,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_SniperRifle",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Снайперская винтовка"
+        },
+        {
+          "category": "Weapon",
+          "internal_name": "weapon_awp",
+          "localized_category_name": "Оружие",
+          "localized_tag_name": "AWP"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Default_Weapon",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "Стандартное",
+          "color": "ded6cc"
+        },
+        {
+          "category": "Exterior",
+          "internal_name": "WearCategoryNA",
+          "localized_category_name": "Оформление",
+          "localized_tag_name": "Не покрашено"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "3653202725",
+      "instanceid": "3666177568",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Uw7P_efWwMudjnzNaJlKH3Zu2EkDMGv8ByjuiToI2tigbg-kplYj3xdY6cIFVtM0aQpAYy5bU4zQ",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVOG_wcbQVmJ5IABWuoX3e1Uw7P_efWx94N2kk4XFxfb2Nr3QwDlQvcdz2-zC8N-ki1G1qERsNmn7LdOTJAU_YAzXqAe7x_Cv28Hbkvj73A",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Награда за выдающиеся достижения и службу в 2020 году."
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": "Дата выпуска: 12 янв 2020 GMT",
+          "color": "99ccff"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": ""
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16142561449546532920",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Медаль за службу в 2020",
+      "name_color": "D2D2D2",
+      "type": "Сувенир, экстраординарного типа",
+      "market_name": "Медаль за службу в 2020",
+      "market_hash_name": "2020 Service Medal",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16142561449546532920",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 0,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Collectible",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Сувенир"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Ancient",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "экстраординарного типа",
+          "color": "eb4b4b"
+        }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "3106076676",
+      "instanceid": "0",
+      "currency": 0,
+      "background_color": "",
+      "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV_ak2srsUVxwIgEZ5rikLgYy0KeZdTtHuoW1xteNx6LxMejTlD0BsZ0l07vHoNnw0FKy_F0sPT4FlIcnBQ",
+      "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV_ak2srsUVxwIgFouru3LAIu1auZJWlGvN3hzYONwq-iMOKBxmoDusMlibuTo9ik2FXkrUBsZG3zLZjVLFGvrKTXrg",
+      "descriptions": [
+        {
+          "type": "html",
+          "value": "Выдаётся преданным членам сообщества Counter-Strike, вступившим в него до выхода обновления «Запретная зона». <i>Сила в преданности.</i>"
+        },
+        {
+          "type": "html",
+          "value": " "
+        },
+        {
+          "type": "html",
+          "value": ""
+        }
+      ],
+      "tradable": 0,
+      "actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2454112236439092858",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "name": "Медаль за верность",
+      "name_color": "D2D2D2",
+      "type": "Сувенир, экстраординарного типа",
+      "market_name": "Медаль за верность",
+      "market_hash_name": "Loyalty Badge",
+      "market_actions": [
+        {
+          "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2454112236439092858",
+          "name": "Осмотреть в игре…"
+        }
+      ],
+      "commodity": 0,
+      "market_tradable_restriction": 7,
+      "marketable": 0,
+      "tags": [
+        {
+          "category": "Type",
+          "internal_name": "CSGO_Type_Collectible",
+          "localized_category_name": "Тип",
+          "localized_tag_name": "Сувенир"
+        },
+        {
+          "category": "Quality",
+          "internal_name": "normal",
+          "localized_category_name": "Категория",
+          "localized_tag_name": "Обычный"
+        },
+        {
+          "category": "Rarity",
+          "internal_name": "Rarity_Ancient",
+          "localized_category_name": "Редкость",
+          "localized_tag_name": "экстраординарного типа",
+          "color": "eb4b4b"
+        }
+      ]
+    }
+  ],
+  "total_inventory_count": 29,
+  "success": 1,
+  "rwgrsn": -2
+}
